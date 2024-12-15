@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="songs_content">
-        <item>1 U Mtakatifu! Mungu mwenyezi!\n Alfajiri sifa zako tutaimba;\n U Mtakatifu , Bwana wa huruma,\n Mungu wa vyote hata milele.\n
+        <item> U Mtakatifu! Mungu mwenyezi!\n Alfajiri sifa zako tutaimba;\n U Mtakatifu , Bwana wa huruma,\n Mungu wa vyote hata milele.\n
                 2\n U Mtakatifu! Na malaika\n Wengi sana wanakuabudu wote;\n Elfu na maelfu wanakusujudu\n Wa zamani na hata milele.\n 3\n
                 U Mtakatifu! Ingawa giza\n Lakuficha fahari tusiione,\n U Mtakatifu! Wewe peke yako,\n Kamili kwa uwezo na pendo.\n  </item>
         <item>1.	Twamsifu mungu mwana wa upendo, aliyetufia na kupaa juu. \n
@@ -13,7 +13,7 @@
 5.\n	Tuamshe tena, tujaze na pendo.Moyoni uwashe moto wa roho. \n
 
 </item>
-        <item>1. Mungu atukuzwe, kwa mambo makuu,Upendo wake ulitupa yesu,\n
+        <item> Mungu atukuzwe, kwa mambo makuu,Upendo wake ulitupa yesu,\n
 Aliyejitoa maisha yake, \n
 Tuwe nao uzima wa milele. \n
                 \nChorus\n
@@ -29,7 +29,7 @@ Lakini zaidi ajabu kubwa, \n
 Yesu atakuja na tutamwona. \n
 
  </item>
-        <item>1.	Jina la Yesu, salamu! Lisujudieni,Ninyi mbinguni hukumu, Na enzi mpeni.\n
+        <item>	Jina la Yesu, salamu! Lisujudieni,Ninyi mbinguni hukumu, Na enzi mpeni.\n
 Ninyi mbinguni hukumu, Na enzi mpeni. \n
 2.\n	Enzi na apewe kenu, watetea dini;Mkuzeni bwana wenu, Na enzi mpeni. \n
 Mkuzeni bwana wenu, Na enzi mpeni. \n
@@ -43,7 +43,7 @@ Kote-kote msifuni, Na enzi mpeni. \n
 Milele sifa ni moja, ni enzi mpeni.\n
 
 </item>
-        <item>1.	Natumwabudu huyo Mfalme,Sifa za nguvu zake zivume;\n
+        <item>	Natumwabudu huyo Mfalme,Sifa za nguvu zake zivume;\n
 Ni ngao ni ngome Yeye milele, \n
 Ndizo sifa zake kale na kale. \n
 2.\n	Tazameni ulimwengu huu,Uliyoumbwa ajabu kuu; \n
@@ -57,19 +57,19 @@ Kamwe haupungui wako wema, \n
 Mkombozi wetu Rafiki mwema. \n
 
 </item>
-        <item>1.	Kumekucha kwa uzuri. Nafumbua macho;Baba amenihifadhi, Ni wake mtoto.\n
+        <item>	Kumekucha kwa uzuri. Nafumbua macho;Baba amenihifadhi, Ni wake mtoto.\n
 2.\n	Bwana ni leo kutwa Ulinzini mwako;Nisamehe dhambi niwe Mikononi mwako. \n
 3.\n	Roho wako anikae Moyoni daima;Anitakase nione Uso wako mwema. \n
 
 </item>
-        <item>1.	Mungu Msaada wetu tangu miaka yote,Ndiwe tumaini letu la zamani zote.\n
+        <item>	Mungu Msaada wetu tangu miaka yote,Ndiwe tumaini letu la zamani zote.\n
 2.\n	Kivuli cha kiti chako ndiyo ngome yetu,Watosha mkono wako ni ulinzi wetu. \n
 3.\n	Kwanza havijakuwako nchi na milima,Ndiwe Mungu; chini yako twakaa salama. \n
 4.\n	Na miaka elfu ni kama siku moja kwako,Utatulinda daima. tu wenyeji wako. \n
 5.\n	Bwana msaada wetu tangu miaka yote,Mlinzi wetu na ngome, daima, milele. \n
 
 </item>
-        <item>1.	Unisikie ninapolia, Uje M-kombozi;Moyo wangu wakutazamia, Uje M-kombozi.\n\n
+        <item>	Unisikie ninapolia, Uje M-kombozi;Moyo wangu wakutazamia, Uje M-kombozi.\n\n
 \nChorus\n
 Nimepotea mbali na kwangu, Nimetanga peke yangu; \n
 \n Unichukulie sasa kwako: Uje M-kombozi. \n
@@ -77,7 +77,7 @@ Nimepotea mbali na kwangu, Nimetanga peke yangu; \n
 3.\n	Nimechoka njia ni ndefu, Uje M-kombozi;Macho yako kuona nataka, Uje M-kombozi. \n
 4.\n	Bwana daima hutanidharau, Uje M-kombozikilio;Changu utanijibu, Uje M-kombozi\n
 </item>
-        <item>1.	Mwumbaji, MfalmeVitu vyote vyako;\n
+        <item>	Mwumbaji, MfalmeVitu vyote vyako;\n
 Ni kwa ukarimu wako\n
 Ninabarikiwa, \n
 Ni kwa ukarimu wako\n
@@ -100,7 +100,7 @@ Siku zangu zako. \n
 
 </item>
         //number 10
-        <item>1.	Kristo wa neema yote imbisha moyo wanguMifulizo yabaraka inaamsha shangwe kuu.\n
+        <item>	Kristo wa neema yote imbisha moyo wanguMifulizo yabaraka inaamsha shangwe kuu.\n
 Unifunze nikupende, nikuandame kote, \n
 Moyo wangu ukajae furaha natumai. \n
 2.\n	Namshukuru sana Bwana, aniwezesha huku.Salama aniongoza hata kule nyumbani. \n
@@ -111,7 +111,7 @@ Ili nisivutwe tena kukuacha ee Mponya, \n
 Nitwalie moyo wangu uwe wako kamili. \n
 
 </item>
-        <item>1. Sauti zote ziimbe, jina la Yesu li heri! \n
+        <item> Sauti zote ziimbe, jina la Yesu li heri! \n
 Sifa za mfalme mungu, jina la Yesu li heri!\n
 
 \nChorus\n
@@ -132,7 +132,7 @@ Wakaburini husikia, jina la Yesu li heri!\n
 
 5.\n Lugha maelf(u) zitaimba, jina la Yesu li heri! \n
 Astahili mwana-kondoo, jina la Yesu li heri!\n</item>
-        <item>1. Msifu Mungu wa neema, \n
+        <item> Msifu Mungu wa neema, \n
 Enyi viumbe po pote; \n
 Wa juu pia sifuni Baba, \n
 Mwana naye Roho! [AMIN]\n</item>
@@ -174,7 +174,7 @@ Yesu nitembee nawe.\n
 
 </item>
         <item>
-1. Nena rohoni yesu, Nena kwa upole \n
+ Nena rohoni yesu, Nena kwa upole \n
 Sema kwangu kwa pendo, "Huachwi upweke. \n
 'Fungua moyo wangu, Nisikie mara;\n
 Jaza roho na sifa, Sifa zako Bwana.\n
@@ -198,7 +198,7 @@ Sheria takatifu: Niiweke pia; \n
 Nipate kutukuza Wewe Mungu wangu, \n
 Mpanzi yako tena, Daima 'kusifu.\n
 </item>
-        <item>1. Bwana ninakuhitaji! Ni mpofu, maskini; \n
+        <item> Bwana ninakuhitaji! Ni mpofu, maskini; \n
 Unishike mkononi, Kwako napata nguvu.\n
 
 Chorus\n
@@ -218,7 +218,7 @@ Nenda nani siku zote, U nuru na uzima.\n
 4.\n Na ikiwa m-beleni Sehemu yangu ngumu, \n
 Au ikiwa furaha, Unilinde kila saa.\n
 </item>
-        <item>1. Si mimi, Kristo astahili sifa; \n
+        <item> Si mimi, Kristo astahili sifa; \n
 Si mimi, Kristo ajulikane; \n
 Si mimi, Kristo katika maneno,\n
 Si mimi, Kristo kwakila tendo.\n
@@ -240,7 +240,7 @@ Kristo pekee, sifa yangu ife.\n
 Si mimi, Kristo, kisima changu; \n
 Kristo pekee, kwa mwili na kwa moyo; \n
 Si mimi, Kristo, hata milele.\n</item>
-        <item>1. Mwokozi kama mchunga \n
+        <item> Mwokozi kama mchunga \n
 Utuongoze leo; \n
 Ututume malishoni;\n
 Fanya tayari boma. \n
@@ -264,7 +264,7 @@ Bwana Yesu, tunapenda \n
 Kuwa, mapema.\n
 </item>
 
-        <item>1. Msalabani pa Mwokozi Hapo niliomba upozi, \n
+        <item> Msalabani pa Mwokozi Hapo niliomba upozi, \n
 Moyo wangu ulitakaswa, Na asifiwe.\n
 \nChorus\n
 Na asifiwe, na asifiwe. \n
@@ -282,7 +282,7 @@ Mtini alinifilia, Na asifiwe.\n
 Huniendesha wokovuni, Na asifiwe.\n</item>
 
         //number 20
-        <item>1. Mungu wetu yeye mwamba, Kimbilio taabuni; \n
+        <item> Mungu wetu yeye mwamba, Kimbilio taabuni; \n
 Msaada penye shida ulio karibu sana.\n
 Chorus\n
 Mwamba wetu kutupumzisha, yu kivuli kuburudusha \n
@@ -298,7 +298,7 @@ Twajua Yeye Mlinzi aliye karibu sana.\n
 
 4.\n Mungu wetu Ficho kwetu, kimbilio taabuni. \n
 Siku zote uwe Boma lililo karibu sana.\n</item>
-        <item>1.Bwana twakujia, Uwe msaada; \n
+        <item>Bwana twakujia, Uwe msaada; \n
 Uwe kimbilio, twakusihi. \n
 Dunia ni giza tukitengwa nawe;\n
 Tufariji hapa, baba yetu.\n
@@ -314,7 +314,7 @@ Twakuomba sana, tupe nguvu.\n
 Moyo wetulinda, safarini; \n
 Tuongoe mbele, tupate kushinda\n
 Na kufika ngambo, kule kwako.\n</item>
-        <item>1.Usinipite, Mwokozi, unisikie; \n
+        <item>Usinipite, Mwokozi, unisikie; \n
 Unapozuru wengine, usinipite.\n
  \nChorus\n
 Bwana, Bwana unisikie; \n
@@ -328,7 +328,7 @@ Uso wako uwe kwangu: nakuabudu.\n
 
 4.\nWewe tu u Mfariji: sina mbinguni, \n
 Wala duniani pote, Bwana mwingine.\n</item>
-        <item>1.Yesu, furaha ya moyo! Hazina ya pendo, na nuru. \n
+        <item>Yesu, furaha ya moyo! Hazina ya pendo, na nuru. \n
 Yote yatupendezayo, yasilinganishe nawe.\n
 
 2.\nKweli yako ya daima, wawajibu wakwitao, \n
@@ -342,7 +342,7 @@ Twakushika kwa imani, nawe watubarikia.\n
 
 5.\nYesu, ndiwe kwetu mwanga, tufurahishe daima; \n
 Giza ya dhambi fukuza, uwe mwanga wa Uzima.\n</item>
-        <item>1.Jina lake Yesu tamu Tukilisikia, \n
+        <item>Jina lake Yesu tamu Tukilisikia, \n
 Hutupoza, tena hamu Hutuondolea.\n
 
 2.\nRoho ilioumia Kwalo hutibika, \n
@@ -356,7 +356,7 @@ Mwanzo, mwisho, na amina, mali yangu yote!\n
 
 5.\nMoyo wangu hauwezi Kukusifu kweli; \n
 Ila sifa zangu hizi, Bwana, zikubali.\n</item>
-        <item>1.Taji mvikeni. Taji nyingi sana, \n
+        <item>Taji mvikeni. Taji nyingi sana, \n
 Kondoo mwake Kitini, Bwana wa mabwana; \n
 Nami tamsifu Alikufa kwangu, \n
 Ni Mfalme mtukufu, Seyidi wa mbingu.\n
@@ -375,7 +375,7 @@ Awezae kuziona pasipo kushangaa!\n
 Kote - kote duniani Vita vitakoma; \n
 Nayo enzi yake itaendelea, \n
 Chini ya miguu yake, Maua humea.\n</item>
-        <item>1.Tutokapo tubariki, Utupe kufurahi; \n
+        <item>Tutokapo tubariki, Utupe kufurahi; \n
 Tuwe na upendo wako, Neema ya kushinda.\n
 Nawe utuburudishe tukisafiri chini.\n
 
@@ -386,7 +386,7 @@ Daima tuwe amini Kwa kweli yako, Bwana.\n
 3.\nSiku zetu zikizidi Tuzitoe kwa Yesu; \n
 Tuwe na nguvu moyoni Tusichoke njiani;\n
 Hata tutakapoona Utukufu wa Bwana.\n</item>
-        <item>1.Mungu mtukufu Aliyeumba pepo kuvuma Na radi kali; \n
+        <item>Mungu mtukufu Aliyeumba pepo kuvuma Na radi kali; \n
 Toa neema unapotawala, Tupe amani Bwana wa wema.\n
 
 2.\nMungu wa neema, Nchi imeacha Amri tukufu Na Neno lako; \n
@@ -416,7 +416,7 @@ Usiku ni sawa na mchana.\n
 Ndiyo dawa yetu majonzini; \n
 Na ikitwita sauti yako, \n
 Tupe amani milele kwako.\n</item>
-        <item>1.Jina lake Yesu tamu, Lihifadhi moyoni; \n
+        <item>Jina lake Yesu tamu, Lihifadhi moyoni; \n
 Litatufariji ndugu, Enda nalo po pote.\n
 \n Chorus\n
 Jina la (Thamani) thamani, (thamani) \n
@@ -432,7 +432,7 @@ Anapotukaribisha, Na tunapomwimbia.\n
 
 4.\nMwisho wa safari yetu Tutakapomsujudu, \n
 Jina hili tutasifu Furaha ya mbinguni.\n</item>
-        <item>1.Yesu nakupenda, U mali yangu, \n
+        <item>Yesu nakupenda, U mali yangu, \n
 Anasa za dhambi sitaki kwangu; \n
 Na mwokozi aliyeniokoa \n
 Sasa nakupenda, kuzidi pia.\n
@@ -452,7 +452,7 @@ Niyatazamapo huko mbinguni, \n
 Tusema na taji nitakayovaa \n
 Sasa nakupenda, kuzidi pia.\n</item>
         //number 30
-        <item>1.Yesu unipendaye kwako nakimbilia,
+        <item>Yesu unipendaye kwako nakimbilia,
 Ni wewe utoshaye mwovu akinijia. \n
 
 Yafiche ubavuni mwako maisha yangu; \n
@@ -485,7 +485,7 @@ Neema ya kutosha yapatikana kwako; \n
 Kwako Bwana naona kisima cha uzima; \n
 
 Mwangu moyoni, Bwana, bubujika daima.\n</item>
-        <item>1. Niimbe (niimbe) pendo lake, \n
+        <item> Niimbe (niimbe) pendo lake, \n
 Pendo la (pendo la) Yesu Bwana; \n
 Sababu (sababu) alitoka \n
 Kwa Baba akafa.\n
@@ -510,7 +510,7 @@ Kubwa kama yangu.\n
 Ambalo (ambalo) nilitenda, \n
 Nataka (nataka) toka leo \n
 Nimwonyeshe pendo.\n</item>
-        <item>1. Ninao wimbo mzuri, Tangu kuamini;\n
+        <item> Ninao wimbo mzuri, Tangu kuamini;\n
 Wa Mkombozi Mfalme, Tangu kuamini.\n
 \nChorus\n
 Tangu kuamini, Jina lake tasifu, \n
@@ -526,7 +526,7 @@ Linalofukuza shaka, Tangu kuamini.\n
 
 4\n Ninalo kao tayari, Tangu kuamini, \n
 Nililorithi kwa Yesu, Tangu kuamini.\n</item>
-        <item>1. Karibu sana univute, Karibu sana daima nawe. \n
+        <item> Karibu sana univute, Karibu sana daima nawe. \n
 Bwana napenda unishike, Unilinde nisianguke nawe.\n
 Unilinde nisitengwe nawe.\n
 
@@ -545,7 +545,7 @@ Nipe Yesu niliyemsulubi.\n
 Daima dawamu niwepo Nitakapoona uso wako, \n
 Nitakapoona uso wako.\n
 </item>
-        <item>1. Nipe habari za Yesu, Kwangu ni tamu sana: \n
+        <item> Nipe habari za Yesu, Kwangu ni tamu sana: \n
 Kisa chake cha thamani Hunipendeza sana. \n
 Jinsi malaika wengi walivyo imba sifa, \n
 Alipoleta amani kwa watu wa dunia.\n
@@ -563,7 +563,7 @@ Jinsi walivyomtesa: Yote ni ya ajabu!\n
 Jinsi walivyo mzika, Akashida kaburi. \n
 Kisa chake cha rehema. Upendo wake kwangu. \n
 Alivyotoa maisha Nipokee wokovu.\n</item>
-        <item>1. Nimekombolewa na Yesu na sasa nimefurahi; \n
+        <item> Nimekombolewa na Yesu na sasa nimefurahi; \n
 Kwa bei ya mauti yake mimi ni mtoto wake.\n
 \nChorus\n
 Kombolewa! Nakombolewa na damu. \n
@@ -579,7 +579,7 @@ Ambaye najifurahisha katika torati yake.\n
 
 4\n Najua taji imewekwa mbinguni tayari kwangu, \n
 Muda kitambo atakuja ili alipo niwepo.\n</item>
-        <item>1. Ni siku kuu siku ile ya kumkiri Mwokozi! \n
+        <item> Ni siku kuu siku ile ya kumkiri Mwokozi! \n
 Moyo umejaa tele kunyamaza hauwezi.\n
 \nChorus\n
 Siku kuu! Siku kuu! Ya kuoshwa dhambi zangu kuu! \n
@@ -592,7 +592,7 @@ Na sasa nitamwandama, nikiri neno la Mungu.\n
 
 3\n Moyo tulia kwa Bwana, kiimi cha raha yako; \n
 Huna njia mbili tena: uwe naye, yote ndako.\n</item>
-        <item>1. Pendo lako, Ee Mwokozi, Hushinda pendo zote!\n
+        <item> Pendo lako, Ee Mwokozi, Hushinda pendo zote!\n
 Kaa nasi, ndani yetu, Furaha ya mbinguni.\n
 Yesu u rehema tupu, Safi na Kusamehe,\n
 Mfariji mwenye huzuni Ziondoe machozi.\n
@@ -615,7 +615,7 @@ Takasa hekalu lako, Wokovu kamilisha! \n
 Safisha viumbe vyako Katika wakati huu; \n
 Tupumzike toka dhambi, Tuingie mbinguni.\n</item>
 
-        <item>1. Nasifu shani ya Mungu, mweneza bahari, \n
+        <item> Nasifu shani ya Mungu, mweneza bahari, \n
 Muumba pia wa mbingu, jua, nyota, mwezi. \n
 Ni tukufu yako shani, mtengeza mambo \n
 Ya nyakati na zamani, yasiyo na mwisho.\n
@@ -632,7 +632,7 @@ Ni pato nikusifupo, kukwona ni dawa; \n
 Umenizingira nyuma, na mbele baraka, \n
 Maarifa ya ajabu! Yanishinda mimi!\n</item>
 
-        <item>1. Ati, kuna mvua njema yanya yenye neema; \n
+        <item> Ati, kuna mvua njema yanya yenye neema; \n
 Watu wanaona vyema Bwana, huninyeshei?\n
 \nChorus\n
 Na mimi? Na mimi? Bwana, huninyeshei?\n
@@ -649,7 +649,7 @@ Natamani kukwandama: Bwana, hunichukui?\n
 Nawe shahidi wa wema, Bwana wema hunipi?\n
 </item>
         // number 40
-        <item>1. Njoo, Roho Mtukufu uoshe moyo wangu, \n
+        <item> Njoo, Roho Mtukufu uoshe moyo wangu, \n
 Utakase nia yangu, njoo, nijaze sasa.\n
 \nChorus\n
 Roho Mtukufu, njoo, nijaze sasa; \n
@@ -667,7 +667,7 @@ Roho Mtukufu sasa, nitilie na nguvu.\n
 Unijaze moyo wangu; ndiwe mwenye uwezo.\n
 
  </item>
-        <item>1. Roho Mtakatifu, Kiongozi amini; \n
+        <item> Roho Mtakatifu, Kiongozi amini; \n
 Utushike mkono Tulio wasafiri; \n
 Utupe kusikia Sauti ya upole; \n
 "Msafiri fuata, Naongoza nyumbani."\n
@@ -682,7 +682,7 @@ Utupe kasikia Sauti ya upole; \n
 Wala hatuna tamaa Ila mbingu na sala; \n
 Utupe kusikia Sauti ya upole; \n
 "Msafiri fuata, Naongoza nyumbani.\n</item>
-        <item>1. Ewe roho wa mbinguni, Maombi sikia! \n
+        <item> Ewe roho wa mbinguni, Maombi sikia! \n
 Makao yako yafanye Mioyoni mwetu. \n
 
 
@@ -700,7 +700,7 @@ Moyo kavu utakuwa Ni wenye baraka.\n
 
 5.\nKaka upepo Ee Roho, Katika Pentekoste \n
 Ukombozi Utangaze, Kwa kila taifa.\n</item>
-        <item>1. Furaha gani na ushiriki, \n
+        <item> Furaha gani na ushiriki, \n
 Nikimtegemea Yesu tu! \n
 Baraka gani, tena amani, \n
 Nikimtegemea Yesu tu! \n
@@ -718,7 +718,7 @@ Nikimtegemea Yesu tu! \n
 Nikimtegemea Yesu tu; \n
 Atakuwa karibu daima, \n
 Nikimtegemea Yesu tu.\n</item>
-        <item>1. Hakuna rafiki kama Yesu, Hakuna, hakuna! \n
+        <item> Hakuna rafiki kama Yesu, Hakuna, hakuna! \n
 Tabibu mwingine wa rohoni, Hakuna hakuna! \n
 Chorus\n
 Yesu ajua shida zetu; Daima ataongoza. \n
@@ -736,7 +736,7 @@ Mkosaji asiyempenda, Hakuna, hakuna!\n
 Ambaye atanyimwa wokovu Hakuna, hakuna!\n
 </item>
 
-        <item>1. Mlimani pana mwanga, Mwanga wa jua zuri \n
+        <item> Mlimani pana mwanga, Mwanga wa jua zuri \n
 Shambani na baharini Jua tukufu liko; \n
 Mwanga ulio mkubwa Umo moyoni mwangu,\n
 Kwa kuwa Yesu alipo Hapa pana mwangaza. \n
@@ -755,7 +755,7 @@ Vyote ni nyako, Mwokozi—Daima nikusifu. \n
 Nakuandama rohoni Hata nyumba ya juu \n
 Iliyopambwa vizuri Katika pendo lako.\n
 </item>
-        <item> 1. Miguuni pake Yesu, Maneno yake tamu; \n
+        <item>  Miguuni pake Yesu, Maneno yake tamu; \n
 Pahali palipo heri, Niwepo kila siku, \n
 Miguuni pake Yesu Nakumbuka Upendo\n
 Na hisani vyake kwangu, Vimenivuta moyo.\n
@@ -771,7 +771,7 @@ Kwake napewa uwezo, Faraja na neema. \n
 Unitazame kwa pendo, Nione uso wako. \n
 Nipe Bwana nia yake Ili ionekane \n
 Nimekaa na Mwokozi Aliye haki yangu.\n</item>
-        <item>1. Ni heri kifungo kinachotufunga \n
+        <item> Ni heri kifungo kinachotufunga \n
 Mioyo yetu kwa pendo la Kikristo.\n
 
 
@@ -785,7 +785,7 @@ Na mara nyingi twatoa Chozi la fanaka.\n
 
 4\n Tunapoachana Moyoni twalia; \n
 Lakini tutakutana M-wisho mbinguni.\n</item>
-        <item>1. Ninakupenda zaidi, Ya vyote vingine; \n
+        <item> Ninakupenda zaidi, Ya vyote vingine; \n
 Kwani umenipa raha, Na amani, Bwana.\n
 Chorus\n
 Nusu haijatangazwa (Tangazwa) \n
@@ -803,7 +803,7 @@ Pasipo upendo wako naona huzuni. \n
 
 4\n Itakuwaje Mwokozi, Kukaa na wewe, \n
 Ikiwa ulimwenguni Tuna furaha hii?\n</item>
-        <item>1. Ninaye rafiki naye Alinipenda mbele; \n
+        <item> Ninaye rafiki naye Alinipenda mbele; \n
 Kwa kamba za pendo lake Nemefungwa milele:\n
 Aukaza moyo wangu, Uache ugeuzi, \n
 Ninakaa ndani yake, Yeye kwangu milele.\n
@@ -827,7 +827,7 @@ Ni nani wa kunitenga, Na mpenzi wa mbele? \n
 Kwake nimetia nanga, Ndimi wake milele.\n</item>
 
             //number 50
-        <item>1. Mungu nawe nanyi daima; hata twonane ya pili, \n
+        <item> Mungu nawe nanyi daima; hata twonane ya pili, \n
 Awachunge kwa fadhili, Mungu nawe nanyi daima. \n
 Chorus\n
 Hata twonane juu, hata twonane tena kwake; \n
@@ -843,7 +843,7 @@ Kila wakati wa shida Awalinde hifadhini: \n
 
 4\n Mungu nawe nanyi daima. Mungu nawe nanyi daima, \n
 Awabariki na pendo Ambalo halina mwisho; Mungu nawe nanyi daima. \n</item>
-            <item>1.      Yesu Mwokozi, kwa hakika, Hunipa furaha na amani;\n
+            <item>      Yesu Mwokozi, kwa hakika, Hunipa furaha na amani;\n
 Mrithi wa wokovu wake, Natakaswa kwa damu yake.\n
  Chorus\n
 Habari hiyo wimbo wangu, Daima nitamsifu Yesu.\n
@@ -855,7 +855,7 @@ Aniletea malaika, Wananilinda, niokoke.\n
 3\n     Hali na mali anaitwaa, Katika Yesu nabarikiwa;\n
 Nikimngoja kwa subira, Wema wake unanitosha.\n
 \n</item>
-            <item>1.      Nipe Biblia nyota ya furaha, wapate nuru wasafirio;\n
+            <item>      Nipe Biblia nyota ya furaha, wapate nuru wasafirio;\n
 Hakuna la kuzuia amani,\n
 
 Kwani Yesu alituokoa.\n
@@ -894,7 +894,7 @@ Nione utukufu wa Bwana.\n
 
 </item>
             <item>
-1.      Napenda kuhubiri habari ya Yesu,\n
+      Napenda kuhubiri habari ya Yesu,\n
 Ya Bwana wa fahari na pendo zake kuu.\n
 Huhubiri napenda kwa hali na mali;\n
 Mwenyewe Nimeonja najua ni kweli.\n
@@ -917,7 +917,7 @@ Kusikia hupenda kama wenzi wao.\n
 Nako kwenye fahari nikiimba wimbo\n
 Nitaimba habari ya Mwokozi huyo!\n
 </item>
-            <item>1.      Nataka nimjue Yesu, na nizidi kumfahamu,\n
+            <item>      Nataka nimjue Yesu, na nizidi kumfahamu,\n
 Nijue pendo lake tu, wokovu wake kamili. \n
  Chorus\n
 Zaidi zaidi, nimfahamu Yesu,\n
@@ -931,7 +931,7 @@ Mapenzi yake, nifanye yale yanayompendeza.\n
 
 4\n      Nataka nikae, kwa mazungumzo matamu.\n
 Nizidi kuwaonyesha wengine wokovu wake!\n</item>
-            <item>1.      Twapanda mapema, na mchana kutwa\n
+            <item>      Twapanda mapema, na mchana kutwa\n
 Mbegu za fadhili hata jioni,\n
 Twangojea sasa siku za kuvuna;\n
 Tutashangilia wenye mavuno.\n
@@ -950,7 +950,7 @@ Tutashangilia wenye mavuno.\n
 Tujapoona taabu na huzuni;\n
 Tuishapo shinda atatupokea:\n
 Tutashangilia wenye mavuno.\n</item>
-            <item>1.      Walio kifoni, nenda waponye.\n
+            <item>      Walio kifoni, nenda waponye.\n
 Uwatoe walio shimoni;\n
 Wanaoanguka uwainue;\n
 Habari njema uwajulishe.\n
@@ -973,7 +973,7 @@ Kazi ni yetu, zawadi iko;\n
 Nguvu kuhubiri Bwana hutoa \n
 Kwa subira tuwavute sasa.\n</item>
             <item>
-1.      Usikatae Kazi yake Bwana; Ukae tayari Kuifanya kazi; \n
+      Usikatae Kazi yake Bwana; Ukae tayari Kuifanya kazi; \n
 Uende po pote Mungu akwitapo, Nawe utaona Furaha kazini.\n
  Chorus\n
 Njoo, We! Usiikatae; Njoo, We! Uifanye kazi;\n
@@ -984,7 +984,7 @@ Mavuno meupe, Wachache Wavuni, Onyesha furaha Kwa kazi ya Bwana.\n
 
 3\n      Usiikatae Kazi yake Bwana, Kukataa pendo Kwako ni Hatari.\n
 Saa ya rehema, Yesu akiomba, Ziungame dhambi, Zifutwe mbinguni.\n</item>
-            <item>1.      Leo ninafikiri ya nchi nzuri Ninayotaka kuiona;\n
+            <item>      Leo ninafikiri ya nchi nzuri Ninayotaka kuiona;\n
 Nisimamapo karibu na Mwokozi, Tajini zitakuwa nyota?\n
  Chorus\n
 Sijui tajini mwangu kama nyota \n
@@ -998,7 +998,7 @@ Ili niwe na nyota katika taji, Bwana anapotupa tunu.\n
 3\n      Nitakuwa na furaha nikimwona, Kuweka miguuni pake\n
 Watu waliovutwa kwa ajili ya Kazi yangu na Roho yake.\n</item>
             <item>
-1.      Fanyeni kazi zenu, usiku si mbali;\n
+      Fanyeni kazi zenu, usiku si mbali;\n
 Kesheni saa zenu vumilieni: \n
 Kwa Yesu tumikeni na hiyo Injili.\n
 Sana wahubirini watu wa mbali.\n
@@ -1013,7 +1013,7 @@ Wote walio kwenu apenda Mungu:\n
 Na sisi tumjuaye na tuwafundishe,\n
 Ili Yesu ajaye tumfurahishe.\n</item>
             // number 60
-            <item>1.      Pengine sio milimani Utakaponiita; \n
+            <item>      Pengine sio milimani Utakaponiita; \n
 Pengine siyo baharini wala palipo vita;\n
 Lakini, nitajibu, na njia siijui.\n
 Bwana, nitajibu, ni tayari Kwenda uniagizapo.\n
@@ -1030,7 +1030,7 @@ Yule aliyepotea mbali: Nitasema upendavyo.\n
 Kazi niwezayo kufanya Kwa Yesu Mkombozi;\n
 Hivi nikikutegemea, Kwa kuwa wanipenda,\n
 Mapenzi yako nitafanya, Na niwe upendanyo.\n</item>
-        <item>1. Nimemwona rafiki Wa thamani kubwa, \n
+        <item> Nimemwona rafiki Wa thamani kubwa, \n
 Ana ni penda kwa pole, Kwa pendo amini:\n
 Kuishi kutengwa naye, La, huku siwezi, \n
 Tunakaa pamoja: Bwana nami. \n
@@ -1049,7 +1049,7 @@ Twazungumza pamoja Bwana nami. \n
 Hivyo ananipeleka Kutangaza neno; \n
 Nitangaze pendo lake, Kwa nini akafa; \n
 Twahubiri pamoja Bwana nami.\n </item>
-        <item>1. Napenda kitabu chake, Kilichotoka mbinguni, \n
+        <item> Napenda kitabu chake, Kilichotoka mbinguni, \n
 Barua kwangu ya Bwana Ujumbe wake wa upendo. \n
 
 2\n Humo ndani ya Kitabu Sura ya yesu naona \n
@@ -1063,7 +1063,7 @@ Hazina kuu ya hekima, Utajiri wa ajabu. \n
 
 5\n Mwangaza wa ulimwengu Angaza humo moyoni! \n
 Uwe mwandamizi pote, Taa ya hatua zangu. \n</item>
-        <item>1. Niuonapo Msalaba, \n
+        <item> Niuonapo Msalaba, \n
 Kristo aliponifia; \n
 Kwangu pato ni hasara.\n
 Kiburi nakichukia. \n
@@ -1082,7 +1082,7 @@ Pendo zako zimetimu \n
 Si sadaka ya kutosha; \n
 Pendo zako zaniwia, \n
 Nafsi, mali na maisha. \n</item>
-        <item>1. Piga panda ya Injili, onyesha watu wote; \n
+        <item> Piga panda ya Injili, onyesha watu wote; \n
 Ili anaye sikia Atubu aokoke. \n
 
 Chorus\n
@@ -1106,7 +1106,7 @@ Iwatangazie wote, wanakwitwa na Baba. \n
 
 Waanbie kwamba Yesu asema "Njoni Kwangu." \n
 </item>
-        <item>1. Twendeni askari, watu wa Mungu; Yesu yuko mbele tumwandame juu \n
+        <item> Twendeni askari, watu wa Mungu; Yesu yuko mbele tumwandame juu \n
 Ame tangulia Bwana vitani, Twende mbele kwani ndiye amini. \n
 Chorus\n
 Twendeni askari watu wa Mungu \n
@@ -1120,7 +1120,7 @@ Hatutengwi nao, moja imani tumaini moja, na moja dini. \n
 
 4\n Haya mbele watu nasi njiani, Inueni myoyo, nanyi sifuni; \n
 Heshima na sifa yake mfalme, Juu hata chini sana zivume. \n</item>
-        <item>1.Roho yangu amka sasa, mara jitahidi; \n
+        <item>Roho yangu amka sasa, mara jitahidi; \n
 Shindano ni lake Bwana, Zawadi ni taji. \n
 
 2\nSauti ni yake Mungu inayokuita; \n
@@ -1131,7 +1131,7 @@ Ya nyuma usifikiri bali mwendo kaza. \n
 
 4\nBwana umetuanzisha katika shindano; \n
 Kwa vile tunaposhinda ushindi ni wako. \n</item>
-        <item>1. Kesha roho yangu, adui maelfu \n
+        <item> Kesha roho yangu, adui maelfu \n
 Hujaribu Kuangusha, Kuvuta dhambini.\n
 
 2\n Ukeshe,uombe, ili usishindwe; \n
@@ -1139,7 +1139,7 @@ Fanya vita kila siku, omba msaada. \n
 
 3\n Kushinda ni bado: ulinde silaha; \n
 Usiache kupigana hata una taji. \n</item>
-        <item>1. Umtetee Mungu duniani ijapo pepo kali zavuma; \n
+        <item> Umtetee Mungu duniani ijapo pepo kali zavuma; \n
 Mwanbani pekee pana nguvu Dhambi ikilemea. \n
 Chorus\n
 Tusimame imara katika mwamba, \n
@@ -1153,7 +1153,7 @@ Mwambani pekee Utashinda wingi wa upotevu. \n
 3\n Itetee kweli, itadumu, ijapokawia itashinda; \n
 Mwambani pekee pana raha yaishapo tufani. \n</item>
         <item>
-                1. Cha kutumaini sina ila damu yake Bwana, \n
+                 Cha kutumaini sina ila damu yake Bwana, \n
 Sina wema wa kutosha Dhambi zangu kuziosha.\n
 
             Chorus\n
@@ -1170,7 +1170,7 @@ Yote chini yakiisha mwokozi atanitosha. \n
 4\n Nikiitwa hukumuni, rohoni nina amani; \n
 Nikivikwa haki yake sina hofu mbele zake. \n</item>
         //number 70
-        <item>1. Wapenzi wa Bwana ije raha yenu! \n
+        <item> Wapenzi wa Bwana ije raha yenu! \n
 Imbeni nyimbo za raha, Imbeni nyimbo a raha: \n
 Za ibada yenu. Za ibada yenu. \n
 Twenenda zayuni, mji mzuri zayuni!\n
@@ -1189,7 +1189,7 @@ Kwenye utukufu, kwenye utukufu. \n
 Huwa maji ya uzima. Huwa maji ya uzima. \n
 Anasa halisi. Anasa halisi. \n</item>
         <item>
-1. Kesha ukaombe panapo mafasi; Wakati si mwingi. Kwa vile ukeshe \n
+ Kesha ukaombe panapo mafasi; Wakati si mwingi. Kwa vile ukeshe \n
 Mwili ni dhaifu. Adui hodari karibu atakuja, Bwana wa arusi. \n
 
             Chorus\n
@@ -1202,7 +1202,7 @@ Bwana alkesha kwa ajili yako; Jasho yeke ikawa matone ya dame. \n
 
 3\n Yesu umkubali awe nguvu zako; silaha uzivae; adui karibu. \n
 Sasa nafasi iko, isipite bure; Bila kukawia masihiya kesha. \n</item>
-        <item>1. Tutajenga juu ya mwanba wa Yesu, Mwamba wa kale; \n
+        <item> Tutajenga juu ya mwanba wa Yesu, Mwamba wa kale; \n
 Tutavumilia kishindo tufani ivumapo. \n
 Chorus\n
 Tutajenga juu, (Tutajenga juu ya mwamba mkuu) \n
@@ -1214,7 +1214,7 @@ Wingine katika mawimbi ya anasa za dhambi. \n
 
 3\nJenga nawe juu ya mwanba, Msing pekee wa kweli:\n
 Tumaini lake litadume, tumai la wokovu. \n</item>
-        <item>1. Nakaza mwendo mbinguni, kila siku napanda juu; \n
+        <item> Nakaza mwendo mbinguni, kila siku napanda juu; \n
 Naomba nikisafiri, "Bwana uniongoze juu. \n
 Chorus\n
 Bwana uniinue juu Kwa imani hata mbingu, \n
@@ -1229,7 +1229,7 @@ Kwa imani nasikia sauti ya washindaji. \n
 4\n Kupanda juu nataka niuone utukufu; \n
 Hata mwisho nitaomba, "Bwana uniongoze juu."\n </item>
         <item>
-1. Niambie, Ee mlinzi, Umepambazuka je! \n
+ Niambie, Ee mlinzi, Umepambazuka je! \n
 Utukufu wa Zayuni; Pana dalili zake? \n
 Msafiri uondoke, Utazame mbinguni, \n
 Kiunoni ujifunge, Ni kucha, alifajiri. \n
@@ -1253,7 +1253,7 @@ Na srdhi ina rutuba; Mito ni mitulivu. \n
 Twende mbele, tufurahi, Nchi inachangamka. \n
 Sikieni kuna wimbo Wa waliookoka; \n
 Kaza mwendo, Ujiunge na kundi kubwa hili. \n</item>
-        <item>1. Msingi imara, ninyi wa Bwana, \n
+        <item> Msingi imara, ninyi wa Bwana, \n
 Ume wekwa kwenu kwa neno lake? \n
 Nini zaidi atasema Bwana? \n
 Imani yenu ipate kuzidi? \n
@@ -1272,7 +1272,7 @@ Na zitasalia dhahabu zako. \n
 Nguvu za jehanamu zijapotisha, \n
 Kamwe kwa adui sitamtia; \n
 Mtu wangu kamwe sitamuacha. \n</item>
-        <item>1. Mrithi ufalme kwani walala? \n
+        <item> Mrithi ufalme kwani walala? \n
 Karibu wokovu wasinzia? \n
 Amka simama uvae silaha \n
 Haraka sana saa zapita. \n
@@ -1297,7 +1297,7 @@ M-falme aja na utukufu; \n
 Jua la onekana milimani, \n
 Warithi ufalme furahini. \n</item>
 
-        <item>1. Je! Mlinzi ukutani \n
+        <item> Je! Mlinzi ukutani \n
 Wa mji wa Zayuni, \n
 Habari zake usiku? \n
 Asubuhi karibu? \n
@@ -1324,7 +1324,7 @@ Twende mbele, kwa upesi \n
 Tutaona bandari; \n
 Furahini, imbeni nyimbo zenu. \n
 Furahini, imbeni nyimbo zenu. \n</item>
-        <item>1. Mpaka lini Bwana \n2\nMpaka lini, Yesu, \n
+        <item> Mpaka lini Bwana \n2\nMpaka lini, Yesu, \n
 Utakaa mbali? Utaacha watu \n
 Kemetuchosha moyo Uliowakomboa \n
 Kukawia hivi. Wawe na mashaka? \n
@@ -1341,7 +1341,7 @@ Utatujia lini, \n
 Ili tu furahi \n
 Katika ile nuru,\n
 Kuja kutukufu? \n</item>
-        <item>1. Nataka Imani hii: Imani imara \n
+        <item> Nataka Imani hii: Imani imara \n
 Ambayo haitetemi Kitu chote Wakati wa shida, \n
 Wakati wa shida. \n
 
@@ -1361,7 +1361,7 @@ Dhambi na ogofyo. \n
 Kuonja hapa chini ulimwenguni, \nKurithi furaha,
 Kurithi furaha. \n</item>
         //number 80
-        <item>1. Tupe moto wa uhai Uliowaka zamani, \n
+        <item> Tupe moto wa uhai Uliowaka zamani, \n
 Uliowaongoza juu Wazee watakatifu. \n
 
 2\nWapi roho iliyokaa Moyoni mwa Ibrahimu? \n
@@ -1372,7 +1372,7 @@ Kama wakati wa Musa, Ayubu na wa Eliya? \n
 
 4\n Zamani za kale, Bwana, Kumbuka na kwa rehema, \n
 Zihuishe roho zetu Kwa Roho Mtakatifu. \n</item>
-        <item>1. Siku sita zime pita, Sabato tena karudi; \n
+        <item> Siku sita zime pita, Sabato tena karudi; \n
 Shangilie roho yangu, itukuze kwa busara. \n
 
 2\nMsifuni awapaye pumziko tamu wachovu, \n
@@ -1383,7 +1383,7 @@ Ujalizwe raha ile, yasipitikwa kamwe. \n
 
 4\n Raha hiyo ya rohoni, ni amana ya pumziko \n
 Ambalo limewekwa juu, kikomo cha masumbuko. \n</item>
-        <item>1. Ni siku ya furaha, ni siku ya nuru; \n
+        <item> Ni siku ya furaha, ni siku ya nuru; \n
 Nasi twaona raha, Kuja kushukuru; \n
 Leo watu wa Mungu, wadogo, wakubwa, \n
 Hukaribia mbingu, lilipo baraka. \n
@@ -1397,7 +1397,7 @@ Na kiu ikizidi, twanywa maridhawa. \n
 Mawazo na yasiwe ya duniani tu; \n
 Leo ni kujilisha chakula cha mbingu, \n
 Na kujifurahisha kwa mambo ya Mungu. \n</item>
-        <item>1. Ewe skuli ya Sabato, \n
+        <item> Ewe skuli ya Sabato, \n
 U pazuri sana; \n
 Moyo wangu wanivuta,\n
 Nije kwako leo. \n
@@ -1416,7 +1416,7 @@ Nije kwako leo. \n
 Aniita pole: \n
 Nimtolee moyo Yeye, \n
 Nije kwako leo. \n</item>
-        <item>1. Ikumbuke kote Sabato ya Bwana, \n
+        <item> Ikumbuke kote Sabato ya Bwana, \n
 Siku tamu na bora, kupita nyingine; \n
 Yatuletea raha, na furaha kweli, \n
 Mwanga wake hungaza, urembo wa Yesu. \n
@@ -1433,7 +1433,7 @@ Atatunywesha tele maji ya uzima. \n
 Tukimwimbia Yesu Rafiki Mpendwa; \n
 Mponya wetu leo, U mwema ajabu! \n
 Ukae kwetu, Bwana, moyoni daima. \n</item>
-        <item>1. Salama tumepita, safarini juma hii, \n
+        <item> Salama tumepita, safarini juma hii, \n
 Tumwendee Mwokozi, atubariki sasa:\n
 Siku hiyo ya raha, siku bora ya juma; \n
 Siku hiyo ya raha, siku bora ya juma. \n
@@ -1452,7 +1452,7 @@ Utamu tusikize, wa raha ya milele: \n
 Itupe nguvu nyingi, iponye wenye shida; \n
 Mioyo yetu shangaza, vyakula utulishe, \n
 Mioyo yetu shangaza, vyakula utulishe. \n</item>
-        <item>1. Ukaribie tena, ewe siku ya raha; \n
+        <item> Ukaribie tena, ewe siku ya raha; \n
 Roho yakusalimu kama mwanga wa mbingu. \n
 
 2\nRaha yako tulivu, yafurahisha moyo; \n
@@ -1460,7 +1460,7 @@ Yatuliza taabu, hata waisha mwendo. \n
 
 3\n Ee siku takatifu, sifa na maombi, \n
 Na kutuhekimisha., baraka yako kubwa. \n</item>
-        <item>1. Siku ya Sabato, siku takatifu, \n
+        <item> Siku ya Sabato, siku takatifu, \n
 Watu wako Mungu wetu, waipenda sana. \n
 
 2\n Ulitakasa, uliibariki, \n
@@ -1472,7 +1472,7 @@ Katika siku ya raha, siku yako Bwana. \n
 4\n Halafu mbinguni, pamoja na Wewe. \n
 Tunataka kuzishika Sabato za Bwana. \n</item>
 
-        <item>1. Siku hii ya Sabato, Tamu kufikiri \n
+        <item> Siku hii ya Sabato, Tamu kufikiri \n
 Juu ya Mungu na Mbingu Kuacha dunia.\n
 
 2\n Tamu kusikia Neno Toka mhubiri \n
@@ -1492,7 +1492,7 @@ Matumaini wanayo, utayatimiza. \n
 4\nNa kwa wingi wa fadhili, Nyumbani mwako juu \n
 Nitaingia na wimbo, Pale kusujudu. \n</item>
         // number 90
-        <item>1. Mapya ni mapenzi hayo, Asubuhi tuonayo; \n
+        <item> Mapya ni mapenzi hayo, Asubuhi tuonayo; \n
 Saa za giza hulindwa, Kwa uzima kuamka.\n
 
 2\n Kila saku, mapya pia, Rehema, wema na afya, \n
@@ -1509,7 +1509,7 @@ Yatosha: tutafaidi Huvuta kwake zaidi. \n
 
 6\n Ewe Bwana, siku zote, Tusaidie kwa yote: \n
 Mwendo wetu wote vivyo, Uwe kama tuombavyo. \n</item>
-        <item>1. Kaa nami, ni usiku tena; \n
+        <item> Kaa nami, ni usiku tena; \n
 Usiniache gizani, Bwana. \n
 Msaada wako haukomi; \n
 Nili peke yangu, kaa nami. \n
@@ -1533,7 +1533,7 @@ Nitashinda kwako, kaa nami. \n
 Gizani mote nimulikiwe; \n
 Nuru za mbinguni hazikomi, \n
 Siku zangu zote; kaa nami.\n</item>
-        <item>1. Magharibi jua limekwisha kushuka, \n
+        <item> Magharibi jua limekwisha kushuka, \n
 Mwezi na nyota sasa vinamsifu Muumba wa usiku. \n
 Chorus\n
 Mungu Mtukufu, Mungu Mkuu, \n
@@ -1550,7 +1550,7 @@ Mungu wangu kubali kunichukua mimi Uliko juu. \n
 
 Baba, Mwana, Roho, Mungu wetu, \n
 Wote juu mbinguni, na wanadamu chini Twakusifu. \n</item>
-        <item>1. Jua la rohoni mwangu, mpendwa Mwokozi wangu; \n
+        <item> Jua la rohoni mwangu, mpendwa Mwokozi wangu; \n
 Usiku giza hapana, ukiwa karibu Bwana. \n
 
 2\n Nikipata usingizi, nijaze fikara hizi, \n
@@ -1567,7 +1567,7 @@ Walio, Mtulizi, wape wote usingizi. \n
 
 6\n Asubuhi tutokapo, tukaribishe tulipo; \n
 Twingiapo duniani tuwe mwako mkononi. \n</item>
-        <item>1. Po pote mashamba yajaa, tele nafaka pevu, \n
+        <item> Po pote mashamba yajaa, tele nafaka pevu, \n
 Po pote yang`aa meupe bondeni na nyandani. \n
 Chorus\n
 Mwenye mavuno, twasihi upeleke wavuni, \n
@@ -1579,7 +1579,7 @@ Hata jua lishukapo wakusanye ko kote. \n
 3\nEnyi wakazi wa Bwana yaleteni mazao, \n
 Na jioni ingieni kwake na furaha kuu. \n</item>
 
-        <item>1. Sikieni neno la Mungu Wetu,\n Zileteni zaka kwa hazina \n
+        <item> Sikieni neno la Mungu Wetu,\n Zileteni zaka kwa hazina \n
 Leteni na mioyo yenu yote;\n mibaraka itakuja. \n\n
 Chorus\n
 Zileteni zaka kwa hazina,\n kanijaribu sasa nazo; \n
@@ -1596,7 +1596,7 @@ Usadiki ahadi zake zote,\n ndipo utakapo barikiwa. \n
 
 5\n Tuimbe sote nyimbo za furaha,\n tunapoleta zaka ghalani \n
 Twimbe kabisa na furaha kubwa,\n kwani tutabarikiwa. \n</item>
-        <item>1. Mali yako sasa, Bwana, tutatoa; \n
+        <item> Mali yako sasa, Bwana, tutatoa; \n
 Hatuna yaliyo yetu, Yote ni vipaji. \n
 
 2\n Sisi watumishi, Twaungama deni; \n
@@ -1607,7 +1607,7 @@ Kwa ajili yao wote Walio gizani. \n
 
 4\n Neno tumaini na kutegemea: \n
 Kwamba lote tufanyalo, Tulifanye kwako. \n</item>
-        <item>1. Sioshwi dhambi zangu bila damu yake Yesu, \n
+        <item> Sioshwi dhambi zangu bila damu yake Yesu, \n
 Hapendezewi Mungu bila damu yake Yesu.\n
 Chorus\n
 Hakuna kabisa dawa ya makosa \n
@@ -1624,7 +1624,7 @@ Wema wala amani bila damu yake Yesu. \n
 
 5\n Yashinda ulimwengu, iyo damu yake Yesu, \n
 Na kutufikisha juu, iyo, damu yake Yesu. \n</item>
-        <item>1. Nilikupa wewe, damu ya moyoni, \n
+        <item> Nilikupa wewe, damu ya moyoni, \n
 Ili wokolewe, winuke ufuni. \n
 Chorus\n
 Nimekunyima ni wewe? Umenipa nini? \n
@@ -1642,7 +1642,7 @@ Na taabu yako, wingie rahani. \n
 Nafsi, nafsi, pendo, mali, twae Imanueli. \n
 Nafsi, nafsi, pendo, mali, twae Imanueli.\n</item>
 
-        <item>1. Twende kwa Yesu mimi nawe, njia atuonya tuijue, \n
+        <item> Twende kwa Yesu mimi nawe, njia atuonya tuijue, \n
 Imo chuoni; na mwenyewe, hapa asema njoo! \n
 Chorus\n
 Na furaha tutaiona, myoyo iki takasa sana; \n
@@ -1654,7 +1654,7 @@ Ndiye Mwokozi wetu hasa, na tumtii, njoni. \n
 3\nWangojeani? Leo yupo: sikiza sana asemapo; \n
 Huruma zake zitwitapo, ewe kijana, njoo. \n</item>
         // number 100
-        <item>1. Kuwatafuta wasioweza, kuomba wamrejee Yesu, \n
+        <item> Kuwatafuta wasioweza, kuomba wamrejee Yesu, \n
 Kuwaambia maneno yake "Njooni kwangu, nawapenda." \n
 
 Nitakwenda (Nitakwenda) niwatafute wapotevu (Wapotevu) wageuke, \n

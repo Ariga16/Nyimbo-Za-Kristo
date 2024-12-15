@@ -13,6 +13,15 @@
         android:theme="@style/Theme.NyimboZaK"
         tools:targetApi="31">
         <activity
+            android:name=".AboutUsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SongActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SecondActivity"
+            android:exported="false" />
+        <activity
             android:name=".FastScreen"
             android:exported="true"
             android:theme="@style/Theme.NyimboZaK">
@@ -26,8 +35,7 @@
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"
-            android:theme="@style/Theme.NyimboZaK">
-        </activity>
+            android:theme="@style/Theme.NyimboZaK" />
     </application>
 
 </manifest>

@@ -23,7 +23,7 @@ class FastScreen : AppCompatActivity() {
         tv.startAnimation(myanim)
         iv.startAnimation(myanim)
 
-        val intent = Intent(this, MainActivity::class.java)
+        val intent = Intent(this, SecondActivity::class.java)
 
         Thread {
             try {
